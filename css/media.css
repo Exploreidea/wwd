@@ -1,0 +1,300 @@
+
+@media(max-width: 1199px){
+  
+}
+@media(min-width: 992px){
+.dis {
+    display: none;
+}
+}
+
+@media(max-width: 991px){
+.about-section .about {
+    display: none;
+}.wedd h6 {
+    margin-bottom: 0;
+}
+.dis {
+    display: block !important;
+    text-align: center;
+    margin-bottom: 30px;
+}.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: 18%;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: 18%;
+}.special {
+    bottom: auto;
+}.specialimg img {
+    transform: rotate(2deg);
+}.specialimg::before {
+    left: 48%;
+}
+
+}
+
+@media(max-width: 950px){
+
+}
+
+@media(max-width: 850px){
+ .backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: 14%;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: 14%;
+}.special {
+    right: 20%;
+}
+}
+@media(max-width: 820px){
+.hiddenimg::before {
+    top: 40%;
+}.specialimg::before {
+    left: 49%;
+}
+}
+
+@media(max-width: 767px){
+.content .date {
+    display: none;
+}.content h1 {
+    font-size: 60px;
+    max-width: none;
+    margin: 5px 0 40px;
+}.content {
+    width: 100%;
+    text-align: center;
+}.header-section img {
+    height: 80vh;
+}.content {
+    top: 45%;
+    transform: translateY(-55%);
+}li .btn-custom {
+    padding: 6px 35px 9px;
+}.start p,.end p {
+    margin: 15px 0;
+}.about-section .end {
+    text-align: start;
+    margin-top: 40px;
+}.about-section ul {
+    justify-content: start !important;
+}.about-section ul li {
+    padding-left: 0 !important;
+    padding-right: 10px;
+}.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: 10%;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: 10%;
+}.hidden{
+  display: none;
+}.wedd {
+    text-align: center;
+}.text-box {
+    margin: 80px 0;
+}.form-section .become {
+    margin-bottom: 50px;
+}.become h1 {
+    margin-bottom: 30px;
+}.heightspan::before{
+  display: none;
+}.Contact h5,.links h5,.location h5 {
+    margin-bottom: 20px;
+}.Contact,.location,.links,.day {
+    margin-top: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+}.terms li {
+    margin-bottom: 10px;
+}.guest-section h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+}.guest-section h4 {
+    font-size: 20px;
+}.become h4,.become h5,.form h4 {
+    font-size: 22px;
+}.become h1 {
+    font-size: 60px;
+    line-height: 60px;
+    margin-bottom: 15px;
+}#offcanvas-navicon {
+    width: 50px;
+}.story-section {
+    background-color: #F9F8F3;
+    padding: 50px;
+}
+}
+
+@media(max-width: 700px){
+.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: 7%;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: 7%;
+}.special {
+    display: none;
+}.specialimg::before {
+    width: 350px;
+    height: 350px;
+}.specialimg::before {
+    left: 48%;
+}
+}
+@media(max-width: 650px){
+   .header-section img {
+    height: 70vh;
+}.content {
+    top: 40%;
+}.about-section h2,.story-section h2,.plan-section h2,.guest-section h2,.wish-section h2 {
+    font-size: 35px;
+}.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: 5%;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: 5%;
+}.special {
+    bottom: 130px;
+    right: 15%;
+}
+
+}
+
+@media(max-width: 575px){
+    .nav_Section #main {
+    right: 30px;
+}.navbar {
+    padding: 10px 30px;
+}.spanbar .closebtn {
+    top: 0;
+    right: 30px;
+}
+.header-section img {
+    height: 60vh;
+}.content {
+    top: 35%;
+}.content h1 {
+    font-size: 50px;
+}.content h4 {
+    font-size: 20px;
+}li .btn-custom,.wish-section .btn-custom {
+    padding: 6px 25px 8px;
+    font-size: 15px;
+}.story-section {
+    background-color: #F9F8F3;
+    padding: 30px;
+}.love h3,.love h1{
+    text-align: center !important;
+    margin: 0;
+}.about-section h2,.story-section h2,.plan-section h2,.guest-section h2,.wish-section h2 {
+    font-size: 25px;
+}.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    top: 3px;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    top: 3px;
+}.backg::before,.story::before,.plan::before,.guest::before,.wish::before {
+    left: -0px;
+}.backg::after,.story::after,.plan::after,.guest::after,.wish::after {
+    right: -0px;
+}.planspan::before{
+  display: none;
+}.wedd h4 {
+    margin-bottom: 5px;
+}.planspan img {
+    margin-bottom: 40px;
+}.wedd {
+    margin-bottom: 25px;
+}.wedd h4 {
+    margin-bottom: 5px;
+}.planspan {
+    text-align: center;
+}.special {
+    right: 12%;
+    bottom: 120px;
+}.specialimg h1 {
+    font-size: 50px;
+}.address-section {
+    text-align: start;
+}.Contact ul li a {height: 32px;width: 32px;font-size: 16px;padding: 3px 10px;}.Contact, .location, .links, .day {
+    border-bottom: 0;
+    text-align: start;
+}.Contact h6 {
+    text-align: start;
+}.Contact ul {
+}
+.Contact ul {
+    margin-bottom: 20px;
+}.about-section ul li a {
+    height: 32px;
+    width: 32px;
+    font-size: 16px;
+    padding: 4px;
+}.specialimg::before {
+    display: none;
+}.guest-section .guest {
+    margin-bottom: 10px;
+}.guest-section h1 {
+    font-size: 22px;
+}.guest-section h4 {
+    font-size: 16px;
+}.text-box p {
+    font-size: 14px;
+}.form input {
+    font-size: 16px;
+}.about-section h2, .story-section h2, .plan-section h2, .guest-section h2, .wish-section h2 {
+    margin-bottom: 20px;
+}.about-section .end {
+    margin-top: 20px;
+}#main {
+    padding: 10px 0;
+}#main span {
+    font-size: 30px;
+}.spanbar .closebtn {
+    font-size: 40px;
+}.sidenav a {
+    font-size: 16px;
+}.nav_Section ul {
+    text-align: center;
+}.plan-section,.form-section,.address-section,.wish-section,.guest-section,.about-section{
+    padding: 30px;
+}
+}
+@media(max-width: 500px){
+.content h1 {
+    line-height: 50px;
+}#offcanvas-sidebar a {
+    font-size: 18px;
+    text-align: center;
+}.backg::after,.story::after,.plan::before,.guest::before,.wish::before {
+    display: none;
+}.backg::before,.story::before,.plan::after,.guest::after,.wish::after {
+    display: none;
+}.specialimg h1 {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}.special {
+    right: 0;
+}.become h1 {
+    font-size: 60px;
+    line-height: 65px;
+}.become h5,.form h4 {
+    font-size: 22px;
+}.terms li {
+    font-size: 14px;
+}.designer li {
+    font-size: 14px;
+}.click {
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+}.click i {
+    left: 15px !important;
+}
+}
+@media(max-width: 420px){
+.love h3 {
+    font-size: 30px;
+}.love h1 {
+    font-size: 80px;
+}.special {
+    right: -30px;
+}li .btn-custom, .wish-section .btn-custom {
+    font-size: 16px;
+}
+
+}
